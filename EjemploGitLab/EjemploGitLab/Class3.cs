@@ -8,5 +8,8 @@ namespace EjemploGitLab
 {
     class Class3
     {
+
+        //codigoooo
+
     }
 }
